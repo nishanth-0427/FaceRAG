@@ -13,16 +13,18 @@ def load_knowledge_base(filepath):
     with open(filepath, 'r', encoding='utf-8') as f:
         return json.load(f)
 
-def retrieve(question, kb, top_k=3, threshold=0.4):
-    """Scores chunks against the question using Gemini embeddings and cosine similarity."""
-    texts_to_embed = [question] + [item["text"] for item in kb]
+def load_index(cache_path="embeddings_cache.json"):
+    with open(cache_path, 'r', encoding='utf-8') as f:
+        return json.load(f)
+
+def retrieve(question, kb, index, top_k=3, threshold=0.4):
+    """Embeds only the question; compares against cached chunk vectors."""
     response = client.models.embed_content(
         model="gemini-embedding-001",
-        contents=texts_to_embed
+        contents=[question]
     )
-
-    embeddings = [e.values for e in response.embeddings]
-    q_emb, chunk_embs = embeddings[0], embeddings[1:]
+    q_emb = response.embeddings[0].values
+    chunk_embs = index["vectors"]
 
     def cosine_sim(v1, v2):
         dot = sum(a * b for a, b in zip(v1, v2))
@@ -33,7 +35,6 @@ def retrieve(question, kb, top_k=3, threshold=0.4):
     scored.sort(reverse=True, key=lambda x: x[0])
 
     return [pair for pair in scored[:top_k] if pair[0] >= threshold]
-
 
 # --- STEP 3: Generation ---
 def generate_answer(question, retrieved):
@@ -62,17 +63,25 @@ If the context doesn't contain the answer, say "I don't have enough information 
 # --- STEP 4: Wire it together and run the demo! ---
 if __name__ == "__main__":
     kb = load_knowledge_base("knowledge_base.json")
+    index = load_index("embeddings_cache.json")
+
+    # --- safety check: make sure kb and index are in sync ---
+    if len(kb) != index["count"]:
+        raise ValueError(
+            f"knowledge_base.json has {len(kb)} entries but embeddings_cache.json "
+            f"has {index['count']}. Run build_index.py to rebuild the cache."
+        )
 
     test_questions = [
-        "What is your Cash on Delivery fee?",              # should be a HIT
-        "Do you ship internationally?",                     # HIT or MISS depending on what you wrote
-        "What is Kaira Home's total revenue last year?"     # should be a MISS
+        "What is your Cash on Delivery fee?",
+        "Do you ship internationally?",
+        "What is Kaira Home's total revenue last year?"
     ]
 
     for q in test_questions:
         print(f"\n{'='*50}\nQuestion: {q}")
 
-        results = retrieve(q, kb)
+        results = retrieve(q, kb, index)
         print("\n--- Retrieved Context ---")
         if not results:
             print("None.")
