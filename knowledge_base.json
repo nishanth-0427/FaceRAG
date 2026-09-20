@@ -1,0 +1,432 @@
+[
+{
+"id": "shipping-01",
+"category": "shipping",
+"text": "Kaira Home orders are usually delivered within 3-7 business days after dispatch. Orders to metro cities such as Bengaluru, Chennai, Hyderabad, Mumbai, Delhi, and Pune may arrive sooner, while remote locations can take longer."
+},
+{
+"id": "shipping-02",
+"category": "shipping",
+"text": "Kaira Home delivers to most serviceable Indian pincodes through our courier partners. You can check whether your pincode is serviceable by entering it on the product page before placing an order."
+},
+{
+"id": "shipping-03",
+"category": "shipping",
+"text": "Standard shipping is free for Kaira Home orders of ₹999 or more. Orders below ₹999 have a shipping charge of ₹79, which is shown at checkout before payment."
+},
+{
+"id": "shipping-04",
+"category": "shipping",
+"text": "Once a Kaira Home order is dispatched, a tracking link is sent to the customer's registered email address and mobile number. The same tracking details can also be viewed from the order status page using the order ID."
+},
+{
+"id": "shipping-05",
+"category": "shipping",
+"text": "Orders placed before 2 PM on a business day are normally processed within 1-2 business days. Orders placed after 2 PM, on Sundays, or on public holidays are processed on the next business day."
+},
+{
+"id": "shipping-06",
+"category": "shipping",
+"text": "Delivery to cities such as Chennai, Coimbatore, Bengaluru, and Hyderabad generally takes 3-5 business days after dispatch. Delivery to smaller towns and remote pincodes may take 5-9 business days."
+},
+{
+"id": "shipping-07",
+"category": "shipping",
+"text": "If a Kaira Home order has not arrived within the estimated delivery window, the customer should check the latest courier tracking status first. If the tracking has not changed for more than 48 hours, customer support can investigate the shipment."
+},
+{
+"id": "shipping-08",
+"category": "shipping",
+"text": "Kaira Home currently ships within India and does not offer international delivery. A valid Indian delivery address and serviceable Indian pincode are required to place an order."
+},
+{
+"id": "cod-01",
+"category": "cod",
+"text": "Cash on Delivery (COD) is available for eligible products and serviceable pincodes in India. COD availability is confirmed at checkout after you enter your delivery pincode."
+},
+{
+"id": "cod-02",
+"category": "cod",
+"text": "Kaira Home charges a ₹49 COD handling fee on eligible cash-on-delivery orders. The fee is displayed separately at checkout before the order is confirmed."
+},
+{
+"id": "cod-03",
+"category": "cod",
+"text": "For some COD orders, Kaira Home may make a confirmation call to verify the customer's name, address, and order details. The order is dispatched only after the required confirmation is completed."
+},
+{
+"id": "cod-04",
+"category": "cod",
+"text": "COD orders at Kaira Home are limited to a maximum order value of ₹5,000. Orders above ₹5,000 must be paid online using an available prepaid payment method."
+},
+{
+"id": "cod-05",
+"category": "cod",
+"text": "COD may not be available for every Indian pincode even when prepaid delivery is available. Customers should enter their pincode at checkout to see whether COD can be selected."
+},
+{
+"id": "cod-06",
+"category": "cod",
+"text": "Customers paying by COD must pay the complete order amount to the delivery executive when the parcel is delivered. The courier may accept cash or another collection method only if it is enabled for that shipment."
+},
+{
+"id": "cod-07",
+"category": "cod",
+"text": "A COD order that cannot be confirmed during the required verification call may be placed on hold or cancelled. Customers can avoid confirmation delays by keeping their registered mobile number reachable after placing the order."
+},
+{
+"id": "cod-08",
+"category": "cod",
+"text": "COD is not available for orders that exceed Kaira Home's ₹5,000 COD limit, even if the delivery pincode is otherwise eligible. Such orders can be placed using prepaid payment methods such as UPI, cards, or net banking."
+},
+{
+"id": "returns_refunds-01",
+"category": "returns_refunds",
+"text": "Kaira Home accepts eligible product return requests within 7 days of delivery. The return request must be raised within the 7-day window through customer support."
+},
+{
+"id": "returns_refunds-02",
+"category": "returns_refunds",
+"text": "A return request for a Kaira Home product must be submitted within 7 calendar days from the date the parcel was delivered. Requests submitted after this period are normally not eligible for return."
+},
+{
+"id": "returns_refunds-03",
+"category": "returns_refunds",
+"text": "For an approved return, Kaira Home usually initiates the refund after the returned item reaches our warehouse and passes inspection. Refunds are normally processed within 5-7 business days after the return is approved."
+},
+{
+"id": "returns_refunds-04",
+"category": "returns_refunds",
+"text": "Refunds for prepaid Kaira Home orders are sent back to the original payment method used for the purchase. For COD orders, the customer must provide valid bank account or UPI details for the refund."
+},
+{
+"id": "returns_refunds-05",
+"category": "returns_refunds",
+"text": "Kaira Home offers size or design exchanges only when the requested replacement item is in stock. Exchange requests must be raised within 7 days of delivery and the returned item must meet the applicable return condition."
+},
+{
+"id": "returns_refunds-06",
+"category": "returns_refunds",
+"text": "Kaira Home does not accept returns for customized or personalized home decor products. Such items are made specifically for the customer's order and are therefore non-returnable unless they arrive damaged or defective."
+},
+{
+"id": "returns_refunds-07",
+"category": "returns_refunds",
+"text": "Used, washed, stained, altered, or visibly damaged products are not eligible for a standard return at Kaira Home. Returned products must be unused and in their original condition with the original packaging where applicable."
+},
+{
+"id": "returns_refunds-08",
+"category": "returns_refunds",
+"text": "If a customer changes their mind and returns an eligible Kaira Home product, the standard return shipping cost is deducted from the refund when applicable. The exact deduction is communicated when the return is approved."
+},
+{
+"id": "returns_refunds-09",
+"category": "returns_refunds",
+"text": "Kaira Home covers return shipping when the product is confirmed to be damaged, defective, or incorrectly shipped. Customers should not arrange a separate courier for such approved returns unless customer support specifically instructs them to do so."
+},
+{
+"id": "returns_refunds-10",
+"category": "returns_refunds",
+"text": "If an approved return is picked up by Kaira Home's courier, the customer should pack the product securely to prevent transit damage. The parcel should include all original accessories, tags, and packaging supplied with the product."
+},
+{
+"id": "returns_refunds-11",
+"category": "returns_refunds",
+"text": "A return is accepted only after the returned product passes Kaira Home's quality inspection. If the item shows signs of use or damage caused after delivery, the return may be rejected and the item may be sent back to the customer."
+},
+{
+"id": "returns_refunds-12",
+"category": "returns_refunds",
+"text": "Kaira Home does not provide cash refunds for prepaid orders. Approved refunds are issued electronically to the original payment method or, for eligible COD refunds, to the bank account or UPI details provided by the customer."
+},
+{
+"id": "orders-01",
+"category": "orders",
+"text": "Customers can track a Kaira Home order using the order ID from the order confirmation email or SMS. After dispatch, the tracking page shows the courier status and the latest shipment update."
+},
+{
+"id": "orders-02",
+"category": "orders",
+"text": "A Kaira Home order can usually be cancelled before it is packed for dispatch. Customers should contact support as soon as possible with the order ID because cancellation may no longer be possible after dispatch."
+},
+{
+"id": "orders-03",
+"category": "orders",
+"text": "Customers cannot change the product variant or quantity of a Kaira Home order after it has been packed for dispatch. Before packing, support may be able to modify the order depending on stock availability."
+},
+{
+"id": "orders-04",
+"category": "orders",
+"text": "A delivery address can be corrected before a Kaira Home order is dispatched if the courier has not yet received the shipment. Customers should contact support with the order ID and the complete corrected address."
+},
+{
+"id": "orders-05",
+"category": "orders",
+"text": "Kaira Home provides an invoice for every completed order. The invoice can be accessed from the order details page or requested from customer support using the order ID."
+},
+{
+"id": "orders-06",
+"category": "orders",
+"text": "Customers who need a GST invoice should enter their business GSTIN and billing details during checkout where the GST invoice option is available. The GSTIN must be valid and match the billing information supplied for the order."
+},
+{
+"id": "orders-07",
+"category": "orders",
+"text": "The GST shown on a Kaira Home invoice depends on the applicable tax rate for the product and is included in the displayed product or order price where required. A valid GST invoice includes the applicable GST details and the customer's submitted billing information."
+},
+{
+"id": "orders-08",
+"category": "orders",
+"text": "If a Kaira Home order shows as confirmed but payment was not completed successfully, the order may remain pending rather than being dispatched. Customers should check their payment status before attempting another payment."
+},
+{
+"id": "orders-09",
+"category": "orders",
+"text": "If multiple Kaira Home items are placed in one order, they may be shipped in separate parcels when they are stored at different fulfilment locations. Each dispatched parcel can have its own courier tracking update."
+},
+{
+"id": "orders-10",
+"category": "orders",
+"text": "An order confirmation from Kaira Home is sent to the email address and mobile number entered during checkout. If the confirmation is not received, customers should check their spam folder and verify the order status using their registered contact details."
+},
+{
+"id": "products-01",
+"category": "products",
+"text": "The Kaira Home Cotton Slub Cushion Cover is priced at ₹349 per cover. It is available in Beige, Olive Green, Rust, and Charcoal, with each color offered in a 16 x 16 inch size."
+},
+{
+"id": "products-02",
+"category": "products",
+"text": "The Kaira Home Cotton Slub Cushion Cover is made from textured cotton slub fabric with a concealed zipper closure. Each cover measures approximately 16 x 16 inches and is designed for a standard square cushion insert."
+},
+{
+"id": "products-03",
+"category": "products",
+"text": "The Kaira Home Cotton Slub Cushion Cover should be machine washed on a gentle cycle with similar colors and mild detergent. Do not use bleach, and dry it in shade to help preserve the fabric color and texture."
+},
+{
+"id": "products-04",
+"category": "products",
+"text": "The Kaira Home Arc Table Lamp is priced at ₹1,899 and is available in Matte Black and Warm White finishes. The lamp is supplied as a single table lamp and is suitable for bedside tables, desks, and sideboards."
+},
+{
+"id": "products-05",
+"category": "products",
+"text": "The Kaira Home Arc Table Lamp has a powder-coated metal body with a fabric shade and measures approximately 12 inches high and 7 inches wide. It uses a standard E27 bulb socket and the bulb is sold separately."
+},
+{
+"id": "products-06",
+"category": "products",
+"text": "To care for the Kaira Home Arc Table Lamp, switch it off and unplug it before cleaning. Wipe the metal body with a soft dry or slightly damp cloth and dust the fabric shade gently without using abrasive cleaners."
+},
+{
+"id": "products-07",
+"category": "products",
+"text": "The Kaira Home Terra Ceramic Vase is priced at ₹1,249 and is available in Ivory, Terracotta, and Sage Green. The vase is sold individually and has a simple rounded profile suitable for dried or artificial stems."
+},
+{
+"id": "products-08",
+"category": "products",
+"text": "The Kaira Home Terra Ceramic Vase is made from glazed ceramic and measures approximately 9 inches high with a 5-inch diameter. Because it is ceramic, the product should be handled carefully to avoid chips or cracks."
+},
+{
+"id": "products-09",
+"category": "products",
+"text": "Clean the Kaira Home Terra Ceramic Vase with a soft damp cloth and mild soap when necessary. Avoid abrasive scrubbers and sudden temperature changes, and dry the vase thoroughly after cleaning."
+},
+{
+"id": "products-10",
+"category": "products",
+"text": "The Kaira Home Botanical Wall Art Print is priced at ₹799 for the unframed print. It is available in A4, A3, and A2 sizes, with Botanical Green and Neutral Beige artwork options."
+},
+{
+"id": "products-11",
+"category": "products",
+"text": "The Kaira Home Botanical Wall Art Print is printed on 300 GSM matte art paper and is supplied without a frame. The available dimensions are A4 at 8.3 x 11.7 inches, A3 at 11.7 x 16.5 inches, and A2 at 16.5 x 23.4 inches."
+},
+{
+"id": "products-12",
+"category": "products",
+"text": "Keep the Kaira Home Botanical Wall Art Print away from direct sunlight and moisture to reduce fading and paper warping. Dust it gently with a clean, dry microfiber cloth and do not wipe the printed surface with water."
+},
+{
+"id": "products-13",
+"category": "products",
+"text": "The Kaira Home Natural Jute Rug is priced at ₹2,499 for the 4 x 6 foot size. It is available in Natural Beige and Charcoal, with larger 5 x 8 foot and 6 x 9 foot sizes also offered at different prices."
+},
+{
+"id": "products-14",
+"category": "products",
+"text": "The Kaira Home Natural Jute Rug is handwoven from natural jute fibers with a cotton backing. Available sizes include approximately 4 x 6 feet, 5 x 8 feet, and 6 x 9 feet, with slight variations possible because the rug is made from natural fibers."
+},
+{
+"id": "products-15",
+"category": "products",
+"text": "Vacuum the Kaira Home Natural Jute Rug regularly using a low-suction setting and clean spills immediately with a dry or slightly damp cloth. Do not soak the rug or use harsh chemical cleaners because excessive moisture can damage natural jute fibers."
+},
+{
+"id": "products-16",
+"category": "products",
+"text": "The Kaira Home Cotton Slub Cushion Cover is sold at ₹349 per cover, while a set of two costs ₹649 when the bundle option is selected. The individual cover is available in Beige, Olive Green, Rust, and Charcoal."
+},
+{
+"id": "products-17",
+"category": "products",
+"text": "The Kaira Home Cotton Slub Cushion Cover uses a concealed zipper so the cover can be removed from its insert easily. Its 16 x 16 inch dimensions fit most standard square cushion inserts of the same size."
+},
+{
+"id": "products-18",
+"category": "products",
+"text": "The Kaira Home Arc Table Lamp is priced at ₹1,899 and comes in Matte Black or Warm White. The lamp has one E27 socket and does not include a bulb, allowing customers to select a compatible bulb separately."
+},
+{
+"id": "products-19",
+"category": "products",
+"text": "The Kaira Home Terra Ceramic Vase costs ₹1,249 and measures approximately 9 inches high. It is available in Ivory, Terracotta, and Sage Green, and the handmade ceramic construction may result in minor variations in finish."
+},
+{
+"id": "products-20",
+"category": "products",
+"text": "The Kaira Home Botanical Wall Art Print starts at ₹799 for the unframed A4 size. A3 and A2 sizes are also available, and customers can choose between Botanical Green and Neutral Beige designs."
+},
+{
+"id": "products-21",
+"category": "products",
+"text": "The Kaira Home Natural Jute Rug starts at ₹2,499 for the 4 x 6 foot size. It is available in Natural Beige and Charcoal, while the 5 x 8 foot and 6 x 9 foot options are priced separately."
+},
+{
+"id": "products-22",
+"category": "products",
+"text": "For the Kaira Home Cotton Slub Cushion Cover, remove the cover before washing and close the zipper fully. Wash gently with mild detergent, avoid bleach, and dry in shade rather than exposing the fabric to prolonged direct sunlight."
+},
+{
+"id": "products-23",
+"category": "products",
+"text": "The Kaira Home Arc Table Lamp should be cleaned only when it is switched off and unplugged. Use a soft cloth for the metal body and gently dust the fabric shade; do not spray cleaning liquid directly onto the lamp."
+},
+{
+"id": "products-24",
+"category": "products",
+"text": "The Kaira Home Terra Ceramic Vase should be cleaned with a soft cloth, mild soap, and lukewarm water when needed. Avoid dropping the vase, using abrasive cleaners, or exposing it to sudden temperature changes."
+},
+{
+"id": "products-25",
+"category": "products",
+"text": "The Kaira Home Botanical Wall Art Print should be kept in a dry indoor location away from direct sunlight. Use a clean dry microfiber cloth to remove dust and avoid applying water or cleaning chemicals to the paper."
+},
+{
+"id": "offers-01",
+"category": "offers",
+"text": "New customers can receive 10% off their first Kaira Home prepaid order with the welcome coupon shown on the website. The welcome coupon is subject to the minimum order value and expiry conditions displayed when the coupon is issued."
+},
+{
+"id": "offers-02",
+"category": "offers",
+"text": "Kaira Home may provide a welcome coupon worth up to ₹300 off for eligible first-time customers. The exact discount and minimum purchase value are displayed with the coupon before it is applied at checkout."
+},
+{
+"id": "offers-03",
+"category": "offers",
+"text": "During seasonal sales such as Diwali or festive home-decor events, Kaira Home may offer discounts on selected products. Sale prices and eligible products are displayed on the website during the applicable promotion period."
+},
+{
+"id": "offers-04",
+"category": "offers",
+"text": "A Kaira Home seasonal sale discount applies only during the dates specified for that promotion. Products already discounted may have different offer conditions, so customers should check the product page and coupon terms before ordering."
+},
+{
+"id": "offers-05",
+"category": "offers",
+"text": "Kaira Home's referral program can provide a ₹200 shopping coupon to an eligible customer when a referred new customer completes a qualifying purchase. Referral rewards are subject to the program's current eligibility and minimum-order conditions."
+},
+{
+"id": "offers-06",
+"category": "offers",
+"text": "Referral coupons issued by Kaira Home are linked to the eligible customer account and cannot normally be transferred or exchanged for cash. The coupon expiry date and minimum order value are shown when the reward is issued."
+},
+{
+"id": "offers-07",
+"category": "offers",
+"text": "Kaira Home generally allows only one promotional coupon to be applied to an order at a time. Welcome, referral, and seasonal coupon codes cannot be stacked unless the specific promotion explicitly states that stacking is allowed."
+},
+{
+"id": "offers-08",
+"category": "offers",
+"text": "A product discount and a coupon may sometimes be combined when the promotion terms permit it, but two coupon codes cannot normally be used together on the same Kaira Home order. The checkout page shows the final eligible discount before payment."
+},
+{
+"id": "payments-01",
+"category": "payments",
+"text": "Kaira Home accepts UPI, credit cards, debit cards, net banking, and supported digital wallets for prepaid orders. Customers can also select Cash on Delivery when COD is available for their order and pincode."
+},
+{
+"id": "payments-02",
+"category": "payments",
+"text": "Kaira Home supports UPI payments through its Razorpay payment gateway. Customers can use supported UPI apps such as Google Pay, PhonePe, or Paytm when those options are displayed at checkout."
+},
+{
+"id": "payments-03",
+"category": "payments",
+"text": "If a Kaira Home payment fails but money has been debited from the customer's bank account, the customer should not immediately make another payment. The transaction is normally reconciled automatically, and support can investigate if the amount is not restored within the applicable banking timeframe."
+},
+{
+"id": "payments-04",
+"category": "payments",
+"text": "If a Razorpay payment fails before the order is confirmed, customers can retry the payment from the available payment option or place the order again. Customers should verify that their bank or UPI app has not already completed the transaction before retrying."
+},
+{
+"id": "payments-05",
+"category": "payments",
+"text": "Kaira Home may offer EMI payment options on eligible credit cards when the EMI option is displayed through Razorpay at checkout. EMI availability, tenure, interest, and processing fees depend on the card issuer and are shown before payment."
+},
+{
+"id": "payments-06",
+"category": "payments",
+"text": "No-cost EMI, when available for a Kaira Home order, is offered only on eligible products and payment methods shown at checkout. The applicable bank terms and EMI amount are displayed before the customer confirms payment."
+},
+{
+"id": "payments-07",
+"category": "payments",
+"text": "Kaira Home displays the final order amount in Indian rupees (₹) before payment. Applicable GST is included or separately identified on the checkout and invoice according to the product's applicable tax treatment."
+},
+{
+"id": "payments-08",
+"category": "payments",
+"text": "For prepaid Kaira Home orders, customers should complete payment only through the payment options provided on the official checkout page. Kaira Home does not ask customers to transfer payment to a personal bank account or individual UPI ID."
+},
+{
+"id": "policies-01",
+"category": "policies",
+"text": "Kaira Home provides a 6-month limited warranty against manufacturing defects on eligible lamps and electrical components. The warranty does not cover damage caused by misuse, accidental breakage, unauthorized repairs, or normal wear and tear."
+},
+{
+"id": "policies-02",
+"category": "policies",
+"text": "If a Kaira Home product arrives damaged, the customer should contact support within 48 hours of delivery and provide clear photos of the outer packaging and damaged product. Support will review the evidence and arrange an eligible replacement or refund according to the damage assessment."
+},
+{
+"id": "policies-03",
+"category": "policies",
+"text": "Customers should retain the original packaging when reporting a damaged Kaira Home item because photographs of the packaging may be required for courier claims. The product should not be discarded until customer support confirms the next step."
+},
+{
+"id": "policies-04",
+"category": "policies",
+"text": "Kaira Home customer support is available Monday to Saturday from 10:00 AM to 6:00 PM IST. Support is closed on Sundays and national holidays, although customers can submit requests online at any time."
+},
+{
+"id": "policies-05",
+"category": "policies",
+"text": "Customers can contact Kaira Home support at [support@kairahome.in](mailto:support@kairahome.in) for order, product, payment, and return assistance. The customer should include the order ID in the email when the request concerns an existing order."
+},
+{
+"id": "policies-06",
+"category": "policies",
+"text": "Kaira Home's limited product warranty applies only to the original purchaser and eligible products purchased through Kaira Home's official store. Proof of purchase or the original order ID may be required to process a warranty claim."
+},
+{
+"id": "policies-07",
+"category": "policies",
+"text": "For a warranty claim, Kaira Home may request photographs, videos, or a description showing the suspected manufacturing defect. After review, support will confirm whether the issue qualifies for warranty service and provide instructions for the next step."
+}
+]
