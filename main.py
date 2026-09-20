@@ -36,6 +36,32 @@ def retrieve(question, kb, index, top_k=3, threshold=0.4):
 
     return [pair for pair in scored[:top_k] if pair[0] >= threshold]
 
+def rewrite_query(question, history):
+    """Rewrites a follow-up question into a standalone one using recent chat history."""
+    if not history:
+        return question
+
+    recent = history[-3:]  # last 3 turns is enough context
+    history_text = "\n".join(
+        f"Q: {turn['question']}\nA: {turn['answer']}" for turn in recent
+    )
+
+    prompt = f"""Given this conversation history:
+{history_text}
+
+And this follow-up question: "{question}"
+
+Rewrite the follow-up question to be a standalone question that includes any 
+context it depends on from the history. If it's already standalone, return it unchanged.
+Return ONLY the rewritten question, nothing else.
+"""
+
+    response = client.models.generate_content(
+        model="gemini-3.6-flash",
+        contents=prompt
+    )
+    return response.text.strip()
+
 # --- STEP 3: Generation ---
 def generate_answer(question, retrieved):
     """Builds a prompt from the retrieved chunks and calls the Gemini LLM to answer."""
